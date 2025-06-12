@@ -1,0 +1,8 @@
+torch==2.2.2
+transformers==4.41.1
+streamlit
+langchain==0.1.20
+langchain-community
+langchain-huggingface
+sentencepiece
+numpy<2
